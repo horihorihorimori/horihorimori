@@ -269,3 +269,21 @@ footer {
     width: 100%;
   }
 }
+element.style {
+}
+html {
+    color: #000;
+    background: #FFF;
+}
+html {
+    color: #000;
+    background: #fff;
+}
+html[Attributes Style] {
+    direction: ltr;
+    unicode-bidi: isolate;
+    -webkit-locale: "ja";
+}
+user agent stylesheet
+html {
+    display: block;
